@@ -1,0 +1,48 @@
+diff -urN a/po/LINGUAS b/po/LINGUAS
+--- a/po/LINGUAS	2010-05-04 11:47:51.657154439 +0530
++++ b/po/LINGUAS	2010-05-04 11:49:01.894042273 +0530
+@@ -2,10 +2,12 @@
+ #
+ af
+ ar
++as
+ ast
+ be
+ be@latin
+ bg
++bn_IN
+ ca
+ crh
+ cs
+@@ -20,7 +22,9 @@
+ fr
+ ga
+ gl
++gu
+ he
++hi
+ hu
+ id
+ is
+@@ -32,10 +36,12 @@
+ lt
+ lv
+ mk
++ml
+ mr
+ nb
+ nl
+ nn
++or
+ pa
+ pl
+ ps
+@@ -48,6 +54,8 @@
+ sr
+ sr@Latn
+ sv
++ta
++te
+ th
+ tr
+ uk
